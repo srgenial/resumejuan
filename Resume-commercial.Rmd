@@ -1,0 +1,75 @@
+---
+title: "Resume update español"
+date: today()
+
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+geometry: margin=1in
+
+author: Juan Manuel González Castillo
+
+jobtitle: "Maestro en Economía Aplicada y Consultor de Comercio Electrónico"
+address: "Tijuana, BC, México"
+fontawesome: yes
+email: juangonzalez@colef.mx
+github: srgenial
+# twitter: srgenial
+#osf: "Enter 5 digit osf string here"
+phone: "+52 664 2044595"
+web: gonzalezcastillo.co
+#updated: no
+
+keywords: R Markdown, econometrics
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+# Objetivo
+Desarrollar una carrera a largo plazo en la dirección de expansión de empresas digitales. Integrar grandes desarrollos de tecnología en R y Python para analíticos de negocio en reportes y aplicaciones. 8 años de experiencia como especialista de Ecommerce y estratega digital. 
+
+
+# Empleos
+
+__Digital Lab Agency__,     *Consultor de ecommerce.* \hfill 2018
+
+Hackeo de múltiples plataformas digitales en campañas orientadas a resultados en MKT-Ventas
+
+__Guarantee Solar__,     *Especialista de mercadotecnia Digital.* \hfill 2017
+
+Desarrollador de automatizaciones y procesos digitales
+
+__Coraform America__,     *Coordinador de proyectos*. \hfill 2015
+
+Supervisor de ventas internacionales, prospectación e inserción. Desarrollo de nuevos productos
+
+__Corporativo Logístico Rodríguez__,     *Supervisor de flotilla*. \hfill 2013
+
+# Educación
+
+__Maestría en Economía Aplicada__ El Colegio de la Frontera Norte, Tijuana, BC. \hfill 2018-2020
+
+
+__Licenciatura en Negocios Internacionales__ San Diego State University. San Diego, CA. \hfill 2013
+ 
+# Habilidades
+
+## Digitales
+
+  - Programador en R y Python para ciencia de datos.
+  - Desarrollador web tienda en línea y shopify expert.
+  - Avanzado en paquetería Ms-Office, G-Suite, Dropbox, Todoist, Trello, Slack.
+  - Busqueda en internet para SEO, redes sociales, administración de dominios.
+  - Experiencia con Google Classroom y Blackboard
+
+## Nobles
+  - Bilingue Inglés y Español. Francés en proceso.
+  - Comunicación transcultural probada en 16 países.
+  - Negociación y manejo de información sensible. 
+
+# Referencias
+Disponibles a solicitud pero seguro incluirían a Filiberto Beltrán, Contralor de Corporativo Logístico Rodríguez; Vanessa Peña, Directora de Negocios Internacionales de United Tote Company; Ivan Salmerón, Contralor de Coraform America; y Alan Miranda, fundador de Digital Lab Agency. Favor de enviar correcciones, comentarios o solicitudes a juan@gonzalezcastillo.co

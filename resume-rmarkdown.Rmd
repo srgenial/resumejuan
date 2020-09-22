@@ -1,0 +1,97 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Juan Manuel González Castillo
+
+jobtitle: "Maestro en Economía Aplicada"
+address: "Tijuana, BC, México"
+fontawesome: yes
+email: juangonzalez@colef.mx
+github: srgenial
+# twitter: stevenvmiller
+#osf: "Enter 5 digit osf string here"
+phone: "+52 664 2044595"
+web: gonzalezcastillo.co
+#updated: no
+
+keywords: R Markdown, econometrics, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+# Objetivo
+Desarrollar una carrera en la investigación económica y de datos. Impartir cátedra en la academia de ciencias  como las matemáticas, metodología, estadística y generales de administración, emprendedurismo y economía; además de integrar programación en R y Python para el desarrollo de cálculos, reportes y aplicaciones.
+
+# Educación
+
+## __Maestría en Economía Aplicada__
+
+El Colegio de la Frontera Norte, Tijuana, BC. \hfill 2018-2020
+
+\hfill *Tesis: Crecimiento económico y difusión tecnológica: el caso del internet de banda ancha*
+
+_Cursos relacionados:_ Econometría de series de tiempo, panel y espacial; aprendizaje automático en R; Economía del Crecimiento; Estadística y Matemáticas.
+
+## __Licenciatura en Negocios Internacionales__
+San Diego State University. San Diego, CA. \hfill 2013
+ 
+Universidad Autónoma de Baja California. Tijuana, BC. \hfill 2012
+
+\hfill *EGEL-CENEVAL: _Sobresaliente_*
+
+Universidad de Valparaíso. Valparaíso, Chile. \hfill 2011
+
+_Cursos relacionados:_ Desarrollo de Negocios, Mercadotecnia global, Finanzas, Emprendedurismo.
+
+# Empleos en mentoría
+
+*Digital Lab Agency*, Mentor de Ecommerce. \hfill 2018
+
+Desarrollamos e impartimos cursos de ecommerce, logística, import-export y redes sociales en Tijuana para entrenamientos individuales y de equipos de trabajo en laboratorios digitales.
+
+*Hackathon Hackify-UABC*, Colaborador y Organizador. \hfill 2017
+
+Creamos el primer Hackathon en Tijuana impartido en UABC-FCA. Se impartió el taller de Shopify-API y se coordinó a los mentore y grupos de trabajo para más de 300 alumnos.
+
+*Instituto Nacional de Educación a los Adultos - INEA*, Servicio social como instructor. \hfill 2013
+
+Verificador y capacitador de adultos mayores en matemáticas y lectura y redacción para el examen del INEA. Impartidor de exámenes mensuales.
+
+
+# Empleos
+
+*Digital Lab Agency*, Consultor de ecommerce. \hfill 2018
+
+*Guarantee Solar*, Especialista de mercadotecnia Digital. \hfill 2017
+
+*Coraform America*, Coordinador de proyectos. \hfill 2015
+
+*DEITAC*, Ejecutivo de negocios. \hfill 2014
+
+*Corporativo Logístico Rodríguez*, Supervisor de flota. \hfill 2013
+
+
+# Habilidades
+## Digitales
+
+  - Programador en R y Python para ciencia de datos.
+  - Desarrollador web tienda en línea y shopify expert.
+  - Avanzado en paquetería Ms-Office, G-Suite, Dropbox, Todoist, Trello, Slack.
+  - Busqueda en internet para SEO, redes sociales, administración de dominios.
+  - Experiencia con Google Classroom y Blackboard
+
+## Nobles
+  - Bilingue Inglés y Español. Francés en proceso.
+  - Comunicación transcultural probada en 16 países.
+  - Negociación y manejo de información sensible. 
+
+# Referencias
+Disponibles a solicitud pero seguro incluirían a Filiberto Beltrán, Contralor de Corporativo Logístico Rodríguez; Vanessa Peña, Directora de Negocios Internacionales de United Tote Company; Ivan Salmerón, Contralor de Coraform America; y Alan Miranda, fundador de Digital Lab Agency. Favor de enviar correcciones, comentarios, detalles o solicitudes a juangonzalez@colef.mx.
