@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.8.12)  21 SEP 2020 22:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.8.12)  13 OCT 2020 23:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -605,18 +605,18 @@ AED: lastpage setting LastPage
 
 {c:/Users/srgen/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
 x.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 207.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 207.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 209.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 209.
 (./Resume-commercial.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 207.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 207.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 209.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 209.
 Package rerunfilecheck Info: File `Resume-commercial.out' has not changed.
-(rerunfilecheck)             Checksum: 7C8611868E19E61DB43C7991C7C8DF9E;642.
+(rerunfilecheck)             Checksum: 86591CE33815A71F68805F933040FBFA;662.
  ) 
 Here is how much of TeX's memory you used:
  13121 strings out of 482841
- 187742 string characters out of 5955014
- 453252 words of memory out of 5000000
+ 187750 string characters out of 5955014
+ 453256 words of memory out of 5000000
  28248 multiletter control sequences out of 15000+600000
  571885 words of font info for 83 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -631,7 +631,7 @@ ppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users
 /srgen/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><
 c:/Users/srgen/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr
 i8a.pfb>
-Output written on Resume-commercial.pdf (1 page, 88434 bytes).
+Output written on Resume-commercial.pdf (1 page, 89419 bytes).
 PDF statistics:
  103 PDF objects out of 1000 (max. 8388607)
  75 compressed objects within 1 object stream
