@@ -5,7 +5,7 @@ output:
     template: svm-latex-cv.tex
 geometry: margin=1in
 
-title: "CV"
+title: "CV investigación
 author: Juan Manuel González Castillo
 
 jobtitle: "Maestro en Economía Aplicada"
